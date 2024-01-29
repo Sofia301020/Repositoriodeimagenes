@@ -1,5 +1,5 @@
 {
-  "name": "ImagenesHistopatologicas",
+  "name": "imagenes",
   "version": "1.0.0",
   "description": "Repositorio de imagenes",
   "main": "serv.js",
